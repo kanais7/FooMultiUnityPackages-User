@@ -1,0 +1,2 @@
+# FooMultiUnityPackages-User
+sandbox user
