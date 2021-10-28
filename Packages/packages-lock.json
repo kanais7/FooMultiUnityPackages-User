@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.kanais7.fuga": {
+      "version": "https://github.com/kanais7/FooMultiUnityPackages.git?path=Assets/Fuga#Fuga-1.0.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c9a137687972b8ba24613de62d1c829ce35d899a"
+    },
+    "com.kanais7.hoge": {
+      "version": "https://github.com/kanais7/FooMultiUnityPackages.git?path=Assets/Hoge#Hoge-1.1.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0b7cad59c3166e8062b2653ed05336f5494b3251"
+    },
     "com.unity.collab-proxy": {
       "version": "1.2.16",
       "depth": 0,
