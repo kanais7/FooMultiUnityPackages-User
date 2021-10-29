@@ -9,6 +9,7 @@ public class Sandbox : MonoBehaviour
     {
         Debug.Log(typeof(HogeScript));
         Debug.Log(typeof(FugaScript));
+        HogeScript.HogeMethod();
     }
 
     // Update is called once per frame

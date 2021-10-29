@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.kanais7.hoge": "https://github.com/kanais7/FooMultiUnityPackages.git?path=Assets/Hoge#Hoge-1.1.0",
+    "com.kanais7.hoge": "https://github.com/kanais7/FooMultiUnityPackages.git?path=Assets/Hoge#e03e17d528b0e8f70d9477b007657845616da2ba",
     "com.kanais7.fuga": "https://github.com/kanais7/FooMultiUnityPackages.git?path=Assets/Fuga#Fuga-1.0.0",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
